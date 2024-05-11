@@ -17,7 +17,7 @@ social: false # includes social icons at the bottom of the page
 ---
 
 ABOUT <br>
-\tHi, I'm Dongshin Lee, Undergraduate Student @SKKU South Korea.<br>
+<t>Hi, I'm Dongshin Lee, Undergraduate Student @SKKU South Korea.<br>
 
 LANGUAGES <br>
 \tC++ <br>
