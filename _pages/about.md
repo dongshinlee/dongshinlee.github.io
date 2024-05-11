@@ -16,24 +16,24 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
--ABOUT
+-ABOUT <p>
   Hi, I'm Dongshin Lee, Undergraduate Student @SKKU South Korea.
 
--LANGUAGES
-  C++
-  JAVA
-  Python
+-LANGUAGES <p>
+  C++ <p>
+  JAVA <p>
+  Python <p>
   
--EDUCATION
-  SKKU, South Korea
-  B.A., Psychology, 2017 ~
+-EDUCATION <p>
+  SKKU, South Korea <p>
+  B.A., Psychology, 2017 ~ <p><p>
   
-  SKKU, South Korea
-  B.S., Software, 2018 ~
+  SKKU, South Korea <p>
+  B.S., Software, 2018 ~ <p>
   
--CERTIFICATIONS
+-CERTIFICATIONS <p>
 
--CONTACT
-  EMAIL: leened@naver.com
-  GITHUB: https://github.com/dongshinlee
+-CONTACT <p>
+  EMAIL: leened@naver.com <p>
+  GITHUB: https://github.com/dongshinlee <p>
 
