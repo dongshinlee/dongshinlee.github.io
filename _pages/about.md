@@ -17,21 +17,21 @@ social: false # includes social icons at the bottom of the page
 ---
 
 -ABOUT <p>
-  Hi, I'm Dongshin Lee, Undergraduate Student @SKKU South Korea.
+  Hi, I'm Dongshin Lee, Undergraduate Student @SKKU South Korea.<p>
 
 -LANGUAGES <p>
   C++ <p>
   JAVA <p>
-  Python <p>
+  Python <p><p>
   
 -EDUCATION <p>
   SKKU, South Korea <p>
   B.A., Psychology, 2017 ~ <p><p>
   
   SKKU, South Korea <p>
-  B.S., Software, 2018 ~ <p>
+  B.S., Software, 2018 ~ <p><p>
   
--CERTIFICATIONS <p>
+-CERTIFICATIONS <p><p>
 
 -CONTACT <p>
   EMAIL: leened@naver.com <p>
